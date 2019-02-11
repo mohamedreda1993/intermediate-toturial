@@ -1,4 +1,5 @@
-//
+//first open story board and deledte viewcontroler and imporet tableview controler from component 
+// second open new file from type pf table view controller and link vc with storyboard and then write code
 //  TableViewController.swift
 //  refreshcontrlo
 //
